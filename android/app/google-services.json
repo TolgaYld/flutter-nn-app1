@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "736226537389",
+    "project_id": "nownowadvertiser-9dacb",
+    "storage_bucket": "nownowadvertiser-9dacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736226537389:android:69ad0a4bc5682df33bfb24",
+        "android_client_info": {
+          "package_name": "de.nownow.nownowadvertiser.nownow_advertiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736226537389-4ggien1ffl7ianjf5tcco26sv13kbali.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.nownow.nownowadvertiser.nownow_advertiser",
+            "certificate_hash": "43b923c5f5be05b7de3041ffb88e9dce2992fe9e"
+          }
+        },
+        {
+          "client_id": "736226537389-tha78n2ukltqccb7vr8c2qufc70aalpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQGSNOHHu90pScq236QqajTE3ZYVualgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736226537389-tha78n2ukltqccb7vr8c2qufc70aalpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736226537389-u74cj9ustrh02ncm13pu3704ttqjd0ta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.nownow.nownowadvertiser.nownowAdvertiser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
